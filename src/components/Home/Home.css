@@ -1,0 +1,30 @@
+.main {
+  /*Search bar section */
+  font-family: "Roboto", sans-serif;
+  background-color: darkgreen;
+}
+
+.FavTab {
+  /*Favorite tab Styles*/
+  background-color: rgb(243, 247, 247);
+  border-radius: 18px;
+}
+
+/*Fav tab styling*/
+.FavTab h3,
+p,
+a {
+  padding-left: 10px;
+}
+
+.FavTab .favCard {
+  display: flex;
+  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(18rem, 2fr)
+  ); /*Adjust the added cards in order */
+  gap: 5px;
+  padding-left: 10px;
+}

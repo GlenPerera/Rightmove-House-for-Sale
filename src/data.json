@@ -1,0 +1,211 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Attractive three bedroom semi-detached family home...",
+      "location": "Petts Wood Road, Petts Wood, Orpington RB3",
+      "latitude": 51.376198278294254,
+      "longitude": 0.0957646935499282,
+      "picture": "/images/House.jpg",
+      "url": "/images/BR3.png",
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2022
+      },
+      "additionalImages": [
+        "/images/extra1.jpg",
+        "/images/extra2.jpg",
+        "/images/extra3.jpg",
+        "/images/extra4.jpg",
+        "/images/extra5.jpg",
+        "/images/extra6.jpg",
+        "/images/extra7.jpg",
+        "/images/extra8.jpg",
+        "/images/extra9.jpg"
+      ]
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout...",
+      "location": "Crofton Road Orpington NW5",
+      "latitude": 51.376198278294254,
+      "longitude": 0.0957646935499282,
+      "picture": "/images/Flat.jpg",
+      "url": "/images/NW5.png",
+      "added": {
+        "month": "September",
+        "day": 14,
+        "year": 2022
+      },
+      "additionalImages": [
+        "/images/extra1.jpg",
+        "/images/extra2.jpg",
+        "/images/extra3.jpg",
+        "/images/extra4.jpg",
+        "/images/extra5.jpg",
+        "/images/extra6.jpg",
+        "/images/extra7.jpg",
+        "/images/extra8.jpg",
+        "/images/extra9.jpg"
+      ]
+    },
+    {
+      "id": "prop3",
+      "type": "Apartment",
+      "bedrooms": 5,
+      "price": 299999,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative Apartment throughout...",
+      "location": "Crofton Road Bellwood BR5",
+      "latitude": "51.45894366944809",
+      "longitude": "-0.04661176906385064",
+      "picture": "/images/House.jpg",
+      "url": "/images/BR5.png",
+      "added": {
+        "month": "January",
+        "day": 14,
+        "year": 2022
+      },
+      "additionalImages": [
+        "/images/extra1.jpg",
+        "/images/extra2.jpg",
+        "/images/extra3.jpg",
+        "/images/extra4.jpg",
+        "/images/extra5.jpg",
+        "/images/extra6.jpg",
+        "/images/extra7.jpg",
+        "/images/extra8.jpg",
+        "/images/extra9.jpg"
+      ]
+    },
+
+    {
+      "id": "prop4",
+      "type": "Flat-Mid Range",
+      "bedrooms": 2,
+      "price": 399998,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout...",
+      "location": "Crofton Road Orpington BR5",
+      "latitude": 51.376198278294254,
+      "longitude": 0.0957646935499282,
+      "picture": "/images/FlatMidRange.jpg",
+      "url": "/images/BR5.png",
+      "added": {
+        "month": "February",
+        "day": 14,
+        "year": 2022
+      },
+      "additionalImages": [
+        "/images/extra1.jpg",
+        "/images/extra2.jpg",
+        "/images/extra3.jpg",
+        "/images/extra4.jpg",
+        "/images/extra5.jpg",
+        "/images/extra6.jpg",
+        "/images/extra7.jpg",
+        "/images/extra8.jpg",
+        "/images/extra9.jpg"
+      ]
+    },
+
+    {
+      "id": "prop5",
+      "type": "Flat-Large Range",
+      "bedrooms": 3,
+      "price": 499995,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout...",
+      "location": "Crofton Road Orpington NW3",
+      "latitude": 51.376198278294254,
+      "longitude": 0.0957646935499282,
+      "picture": "/images/FlatLargeRange.jpg",
+      "url": "/images/NW3.png",
+      "added": {
+        "month": "September",
+        "day": 14,
+        "year": 2022
+      },
+      "additionalImages": [
+        "/images/extra1.jpg",
+        "/images/extra2.jpg",
+        "/images/extra3.jpg",
+        "/images/extra4.jpg",
+        "/images/extra5.jpg",
+        "/images/extra6.jpg",
+        "/images/extra7.jpg",
+        "/images/extra8.jpg",
+        "/images/extra9.jpg"
+      ]
+    },
+
+    {
+      "id": "prop6",
+      "type": "Flat-Large Range",
+      "bedrooms": 3,
+      "price": 400000,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout...",
+      "location": "Crofton Road Orpington NW3",
+      "latitude": 51.376198278294254,
+      "longitude": 0.0957646935499282,
+      "picture": "/images/FlatLargeRange.jpg",
+      "url": "/images/NW3.png",
+      "added": {
+        "month": "December",
+        "day": 14,
+        "year": 2023
+      },
+      "additionalImages": [
+        "/images/extra1.jpg",
+        "/images/extra2.jpg",
+        "/images/extra3.jpg",
+        "/images/extra4.jpg",
+        "/images/extra5.jpg",
+        "/images/extra6.jpg",
+        "/images/extra7.jpg",
+        "/images/extra8.jpg",
+        "/images/extra9.jpg"
+      ]
+    },
+
+    {
+      "id": "prop7",
+      "type": "Flat-Mid Range",
+      "bedrooms": 3,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout...",
+      "location": "Crofton Road Orpington NW3",
+      "latitude": 51.376198278294254,
+      "longitude": 0.0957646935499282,
+      "picture": "/images/FlatMidRange.jpg",
+      "url": "/images/NW3.png",
+      "added": {
+        "month": "November",
+        "day": 14,
+        "year": 2023
+      },
+      "additionalImages": [
+        "/images/extra1.jpg",
+        "/images/extra2.jpg",
+        "/images/extra3.jpg",
+        "/images/extra4.jpg",
+        "/images/extra5.jpg",
+        "/images/extra6.jpg",
+        "/images/extra7.jpg",
+        "/images/extra8.jpg",
+        "/images/extra9.jpg"
+      ]
+    }
+  ]
+}
