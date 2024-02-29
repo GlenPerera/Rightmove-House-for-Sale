@@ -11,7 +11,7 @@ const Home = () => {
   const [clickInfo, setclickInfo] = useState(null); //State  used for getting more information about properties
   const [showModal, setShowModal] = useState(false); //Showing the modal when user need to view
   const [favourites, setFavourites] = useState([]); // Adding to the favourites section when the user selects to add to favourites
-  const [showFavourites, setShowFavourites] = useState(false); //Manage Visibility of favourites
+  const [showFavourites, setShowFavourites] = useState(true); //Manage Visibility of favourites
 
   const handleSearch = () => {
     //Search and Filter the properties searched by the user

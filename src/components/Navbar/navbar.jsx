@@ -6,7 +6,7 @@ const navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
     <nav>
-      <Link to="/home" className="title">
+      <Link to="/" className="title">
         RightMove🏠
       </Link>
       <div
@@ -21,7 +21,7 @@ const navbar = () => {
       </div>
       <ul className={menuOpen ? "open" : ""}>
         <li>
-          <NavLink to="/home">Home</NavLink>
+          <NavLink to="/">Home</NavLink>
         </li>
         <li>
           <NavLink to="/about">About Us</NavLink>
